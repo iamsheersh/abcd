@@ -5,6 +5,6 @@ from django.test import TestCase
 <<<<<<< HEAD
 class test_class123():
 =======
-class test_class1234():
+class test_class1():
 >>>>>>> b0a7d35c99c50dd059d4542c9fdf94b2a3a580f3
     pass
